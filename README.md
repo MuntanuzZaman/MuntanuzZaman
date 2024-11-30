@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Quality Assurance Engineer interested in collaborating with people from different teams to learn and improve my skills. My goal is to deliver seamless, efficient, and meaningful products that can solve users' daily hardships.<br>I am currently working with Automation Scripting using Cypress and API Handling with Postman.<br>I am interested in learning Software Architecture and CI/CD Pipeline.
+I am a Software Quality Assurance Engineer at M2SYS (www.m2sys.com), interested in collaborating with people from different teams to learn and improve my skills. My goal is to deliver seamless, efficient, and meaningful products that can solve users' daily hardships.<br>I am currently working with Automation Scripting using Cypress and API Handling with Postman.<br>I am interested in learning Software Architecture and CI/CD Pipeline.
 
 
 ## 🌐 Socials:
